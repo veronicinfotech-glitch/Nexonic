@@ -267,7 +267,7 @@ const Footer = () => {
               <a href="#" className="getstarted-social-link">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="#" className="getstarted-social-link">
+              <a href="https://github.com/nexonicmarketing" className="getstarted-social-link">
                 <i className="fab fa-github"></i>
               </a>
               <a
